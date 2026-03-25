@@ -4,6 +4,8 @@ Bash scripts for managing AWS VPC networking resources.
 
 ---
 
+![Nat Gateway setup](https://infra-guys.com/blog/posts/images/nat-gw-setup.jpg)
+
 ## Scripts
 
 | Script | Description |
